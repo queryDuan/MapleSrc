@@ -33,6 +33,7 @@
 - 通过`JMX`注册命令处理器`CommandProcessor`，处理所有脚本(javaScript,用于处理:npc对话、地图事件响应、活动副本、系统任务响应、命令响应等)
 
 > `MapleServerHandler` :处理了所有cs通信，后面会着重分析
+
 > `CommandProcessor`：处理了所有脚本java-js通信问题，后面会着重分析
 
 ##### LoginServer
